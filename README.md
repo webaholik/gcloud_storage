@@ -14,9 +14,13 @@ Add this line to your application's Gemfile:
 gem 'gcloud_storage', '0.0.4'
 ```
 
-If you're using rails 5.0 and above then
+If you're using rails 5.x-6.x
 ```ruby
 gem 'gcloud_storage', '0.0.5'
+```
+If you're using rails 7.0 and above then
+```ruby
+gem 'gcloud_storage', '0.0.7'
 ```
 
 And then execute:
